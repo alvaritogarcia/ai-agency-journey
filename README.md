@@ -1,31 +1,46 @@
 # AI Agency Journey 🚀
 
-Welcome to my journey of building an AI Automation Agency from scratch.
+Bienvenido a mi camino construyendo una Agencia de Automatización con IA desde cero.
 
-## Goal
+## Objetivo
 
-Build a profitable AI Automation Agency capable of helping businesses automate repetitive tasks using AI, workflows and custom solutions.
+Crear una agencia rentable especializada en ayudar a empresas a automatizar procesos utilizando inteligencia artificial, automatizaciones y soluciones personalizadas.
 
-## What you'll find here
+## Qué encontrarás aquí
 
-- AI Agents
-- n8n Workflows
-- Python Projects
-- API Integrations
-- Business Automations
-- Documentation
-- Weekly Progress
+- Automatizaciones con IA
+- Agentes inteligentes
+- Workflows con n8n
+- Proyectos en Python
+- Integraciones con APIs
+- Soluciones para empresas
+- Documentación del proceso
+- Progreso semanal
 
-## Roadmap
+## Hoja de ruta
 
-- [ ] Foundations
+- [ ] Preparación del entorno
+- [ ] Fundamentos de programación
 - [ ] Python
-- [ ] APIs
-- [ ] n8n
-- [ ] AI Agents
-- [ ] Portfolio
-- [ ] First Client
-- [ ] Scale Agency
+- [ ] APIs y conexiones
+- [ ] Automatizaciones con n8n
+- [ ] Agentes de IA
+- [ ] Proyectos reales
+- [ ] Portfolio profesional
+- [ ] Primeros clientes
+- [ ] Escalado de la agencia
+
+## Proyectos principales
+
+Próximamente:
+
+- Recepcionista IA
+- Asistente de documentos
+- Automatización de emails
+- Agente comercial
+- Automatización de CRM
+- Sistemas de atención al cliente
 
 ---
-Built in public.
+
+Construyendo en público.
